@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hello world !  I'm John Makumi, 
 
-<!--
-**Makumiii/Makumiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A mechanical engineer by training, a fullstack developer by passion, and a builder by nature.  
+I specialize in creating dependable software systems and tools. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+
+- **Backend Development**: Scalable APIs, microservices, authentication systems  
+- **Linux & DevOps**: Server automation, Bash scripting, deployment pipelines, cloud infrastructure
+- **Fullstack Capabilities**: TypeScript across both frontend and backend
+
+---
+
+### 🛠️ Technologies & Tools
+
+- **Languages**: TypeScript, JavaScript, Bash
+- **Backend**: Node.js, Deno, Express, Hono, Bun
+- **Databases**: MongoDB, SQL
+- **Cloud & Infra**: Linux, Nginx, Docker, Git, GitHub Actions, Caddy 
+- **Frontend**: React, TailwindCSS , NextJs
+
+---
+
+### 🎯 Vision
+
+Build software that effectively meets our needs 
+
+---
+
+### 📫 Let's Connect
+
+- 🐦 [Twitter](https://x.com/dev_maks)   
+- 💼 [LinkedIn](www.linkedin.com/in/john-makumi-20a98a2bb)  
+
+---
+
+_“Engineering is problem solving, whether it's with a wrench or a shell script.”_
