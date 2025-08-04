@@ -5,7 +5,7 @@ I specialize in creating dependable software systems and tools.
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
 - **Backend Development**: Scalable APIs, microservices, authentication systems  
 - **Linux & DevOps**: Server automation, Bash scripting, deployment pipelines, cloud infrastructure
@@ -13,7 +13,7 @@ I specialize in creating dependable software systems and tools.
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 - **Languages**: TypeScript, JavaScript, Bash
 - **Backend**: Node.js, Deno, Express, Hono, Bun
@@ -23,13 +23,13 @@ I specialize in creating dependable software systems and tools.
 
 ---
 
-### 🎯 Vision
+### Vision
 
 Build software that effectively meets our needs 
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 - 🐦 [Twitter](https://x.com/dev_maks)   
 - 💼 [LinkedIn](www.linkedin.com/in/john-makumi-20a98a2bb)  
