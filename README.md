@@ -19,7 +19,7 @@ I specialize in creating dependable software systems and tools.
 - **Backend**: Node.js, Deno, Express, Hono, Bun
 - **Databases**: MongoDB, SQL
 - **Cloud & Infra**: Linux, Nginx, Docker, Git, GitHub Actions, Caddy 
-- **Frontend**: React, TailwindCSS , NextJs
+- **Frontend**: React, TailwindCSS , NextJs, HTML, CSS
 
 ---
 
