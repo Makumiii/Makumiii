@@ -1,5 +1,5 @@
 # Hello, I'm John Makumi
-I design and build systems for production.
+I build for the web.
 
 Most of my work is built around backend infrastructure, developer tools, and full-stack applications.
 
@@ -35,7 +35,7 @@ Devops
 ## Elsewhere
 
 X → https://x.com/dev_maks  
-LinkedIn → https://www.linkedin.com/in/john-makumi-20a98a2bb
+LinkedIn → https://www.linkedin.com/in/john-makumi
 Blog → https://blog.makumijohn.me/
 
 ---
