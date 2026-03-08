@@ -1,4 +1,5 @@
 # Hello, I'm John Makumi
+
 I build for the web.
 
 Most of my work is built around backend infrastructure, developer tools, and full-stack applications.
@@ -15,8 +16,8 @@ https://sship.makumitech.dev
 PaaS for server and deployments management.  
 https://okastr8.makumitech.dev
 
-**Blazion** 
-Notion database to site.
+**Blazion**  
+Notion database to site.  
 https://github.com/Makumiii/blazion
 
 ---
@@ -24,10 +25,10 @@ https://github.com/Makumiii/blazion
 ## Interests
 
 Developer tooling  
-Backend development
+Backend development  
 AI-assisted software development  
-SaaS
-Linux
+SaaS  
+Linux  
 Devops
 
 ---
@@ -35,9 +36,9 @@ Devops
 ## Elsewhere
 
 X → https://x.com/dev_maks  
-LinkedIn → https://www.linkedin.com/in/john-makumi
+LinkedIn → https://www.linkedin.com/in/john-makumi  
 Blog → https://blog.makumijohn.me/
 
 ---
 
-> Shipping software and exploring new problems to solve with software .
+> Shipping software and exploring new problems to solve with software.
