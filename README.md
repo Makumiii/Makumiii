@@ -8,6 +8,10 @@ Most of my work is built around backend infrastructure, developer tools, and ful
 
 ## Currently building
 
+**Freelance Studio**  
+Workspace to manage client work end to end.  
+https://freelancestudio.pro
+
 **SSHIP**  
 SSH utility tool.  
 https://sship.makumitech.dev
